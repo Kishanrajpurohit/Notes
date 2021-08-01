@@ -52,7 +52,12 @@ img {
 .navbar {
   /* background-color: #f00; */
 }
-
+.btn-primary1 {
+  background-color: #fbb540;
+}
+.mt-2 {
+  color: #fbb540;
+}
 a:focus,
 input:focus,
 textarea:focus,
